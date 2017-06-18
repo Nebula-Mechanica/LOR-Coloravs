@@ -1,0 +1,275 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("www.linux.org.ru") {
+.msg .userpic .photo {
+display: none !important;
+}
+.message-w-userpic {
+padding-left: 0px !important;
+}
+.msg footer .sign {
+margin-left: 0px !important;
+}
+.comment .sign a:before {
+display: block !important;
+position: relative !important;
+
+content: " ";
+
+margin-top: -40px !important;
+width: 40px !Important;
+height: 40px !important;
+left: -85px !Important;
+bottom: -33px !Important;
+
+border-radius: 55px !important;
+}
+.comment .sign a[href*="/people/a"]:before{
+color: green !important;
+background-color: green !important;
+}
+.comment .sign a[href*="/people/b"]:before{
+color: #eea9b8 !important;
+background-color: #eea9b8 !important;
+}
+.comment .sign a[href*="/people/c"]:before{
+color: #27408b !important;
+background-color: #27408b !important;
+}
+.comment .sign a[href*="/people/d"]:before{
+color: #7ac5cd !important;
+background-color: #7ac5cd !important;
+}
+.comment .sign a[href*="/people/e"]:before{
+color: #698b22 !important;
+background-color: #698b22 !important;
+}
+.comment .sign a[href*="/people/f"]:before{
+color: #6ca6cd !important;
+background-color: #6ca6cd !important;
+}
+.comment .sign a[href*="/people/g"]:before{
+color: #778899 !important;
+background-color: #778899 !important;
+}
+.comment .sign a[href*="/people/h"]:before{
+color: #7b68ee !important;
+background-color: #7b68ee !important;
+}
+.comment .sign a[href*="/people/i"]:before{
+color: #8b2252 !important;
+background-color: #8b2252 !important;
+}
+.comment .sign a[href*="/people/j"]:before{
+color: #faebd7 !important;
+background-color: #faebd7 !important;
+}
+.comment .sign a[href*="/people/k"]:before{
+color: #ff0000 !important;
+background-color: #ff0000 !important;
+}
+.comment .sign a[href*="/people/l"]:before{
+color: #eec900 !important;
+background-color: #eec900 !important;
+}
+.comment .sign a[href*="/people/m"]:before{
+color: #8b8682 !important;
+background-color: #8b8682 !important;
+}
+.comment .sign a[href*="/people/n"]:before{
+color: #00005b !important;
+background-color: #00005b !important;
+}
+.comment .sign a[href*="/people/o"]:before{
+color: #008b00 !important;
+background-color: #008b00 !important;
+}
+.comment .sign a[href*="/people/p"]:before{
+color: #ba55d3 !important;
+background-color: #ba55d3 !important;
+}
+.comment .sign a[href*="/people/q"]:before{
+color: #d02090 !important;
+background-color: #d02090 !important;
+}
+.comment .sign a[href*="/people/r"]:before{
+color: #8b795e !important;
+background-color: #8b795e !important;
+}
+.comment .sign a[href*="/people/s"]:before{
+color: #96cdcd !important;
+background-color: #96cdcd !important;
+}
+.comment .sign a[href*="/people/t"]:before{
+color: #4a708b !important;
+background-color: #4a708b !important;
+}
+.comment .sign a[href*="/people/u"]:before{
+color: #68228b !important;
+background-color: #68228b !important;
+}
+.comment .sign a[href*="/people/v"]:before{
+color: #8b4500 !important;
+background-color: #8b4500 !important;
+}
+.comment .sign a[href*="/people/w"]:before{
+color: #3d3d3d !important;
+background-color: #3d3d3d !important;
+}
+.comment .sign a[href*="/people/x"]:before{
+color: #cd0000 !important;
+background-color: #cd0000 !important;
+}
+.comment .sign a[href*="/people/y"]:before{
+color: #080808 !important;
+background-color: #080808 !important;
+}
+.comment .sign a[href*="/people/z"]:before{
+color: #e0ffff !important;
+background-color: #e0ffff !important;
+}
+.comment .sign a[href*="/people/A"]:before{
+color: #ffffff !important;
+background-color: #ffffff !important;
+}
+.comment .sign a[href*="/people/B"]:before{
+color: #b5b5b5 !important;
+background-color: #b5b5b5 !important;
+}
+.comment .sign a[href*="/people/C"]:before{
+color: #636363 !important;
+background-color: #636363 !important;
+}
+.comment .sign a[href*="/people/D"]:before{
+color: #838b83 !important;
+background-color: #838b83 !important;
+}
+.comment .sign a[href*="/people/E"]:before{
+color: #00688b !important;
+background-color: #00688b !important;
+}
+.comment .sign a[href*="/people/F"]:before{
+color: #43cd80 !important;
+background-color: #43cd80 !important;
+}
+.comment .sign a[href*="/people/G"]:before{
+color: #00868b !important;
+background-color: #00868b !important;
+}
+.comment .sign a[href*="/people/H"]:before{
+color: #ee82ee !important;
+background-color: #ee82ee !important;
+}
+.comment .sign a[href*="/people/I"]:before{
+color: #eeeed1 !important;
+background-color: #eeeed1 !important;
+}
+.comment .sign a[href*="/people/J"]:before{
+color: #8470ff !important;
+background-color: #8470ff !important;
+}
+.comment .sign a[href*="/people/K"]:before{
+color: #8b475d !important;
+background-color: #8b475d !important;
+}
+.comment .sign a[href*="/people/L"]:before{
+color: #0d0d0d !important;
+background-color: #0d0d0d !important;
+}
+.comment .sign a[href*="/people/M"]:before{
+color: #eed5d2 !important;
+background-color: #eed5d2 !important;
+}
+.comment .sign a[href*="/people/N"]:before{
+color: #ff8247 !important;
+background-color: #ff8247 !important;
+}
+.comment .sign a[href*="/people/O"]:before{
+color: #90ee90 !important;
+background-color: #90ee90 !important;
+}
+.comment .sign a[href*="/people/P"]:before{
+color: #5e5e5e !important;
+background-color: #5e5e5e !important;
+}
+.comment .sign a[href*="/people/Q"]:before{
+color: #ee0000 !important;
+background-color: #ee0000 !important;
+}
+.comment .sign a[href*="/people/R"]:before{
+color: #ffefd5 !important;
+background-color: #ffefd5 !important;
+}
+.comment .sign a[href*="/people/S"]:before{
+color: #fffff0 !important;
+background-color: #fffff0 !important;
+}
+.comment .sign a[href*="/people/T"]:before{
+color: #ee9a00 !important;
+background-color: #ee9a00 !important;
+}
+.comment .sign a[href*="/people/U"]:before{
+color: #6b8e23 !important;
+background-color: #6b8e23 !important;
+}
+.comment .sign a[href*="/people/V"]:before{
+color: #828282 !important;
+background-color: #828282 !important;
+}
+.comment .sign a[href*="/people/W"]:before{
+color: #eee9e9 !important;
+background-color: #eee9e9 !important;
+}
+.comment .sign a[href*="/people/X"]:before{
+color: #eeaeee !important;
+background-color: #eeaeee !important;
+}
+.comment .sign a[href*="/people/Y"]:before{
+color: #9b30ff !important;
+background-color: #9b30ff !important;
+}
+.comment .sign a[href*="/people/Z"]:before{
+color: #66cd00 !important;
+background-color: #66cd00 !important;
+}
+.comment .sign a[href*="/people/0"]:before{
+color: #fafad2 !important;
+background-color: #fafad2 !important;
+}
+.comment .sign a[href*="/people/1"]:before{
+color: #daa520 !important;
+background-color: #daa520 !important;
+}
+.comment .sign a[href*="/people/2"]:before{
+color: #ffe4e1 !important;
+background-color: #ffe4e1 !important;
+}
+.comment .sign a[href*="/people/3"]:before{
+color: #cd2990 !important;
+background-color: #cd2990 !important;
+}
+.comment .sign a[href*="/people/4"]:before{
+color: #707070 !important;
+background-color: #707070 !important;
+}
+.comment .sign a[href*="/people/5"]:before{
+color: #6e6e6e !important;
+background-color: #6e6e6e !important;
+}
+.comment .sign a[href*="/people/6"]:before{
+color: #db7093 !important;
+background-color: #db7093 !important;
+}
+.comment .sign a[href*="/people/7"]:before{
+color: #b4eeb4 !important;
+background-color: #b4eeb4 !important;
+}
+.comment .sign a[href*="/people/8"]:before{
+color: #8b8b00 !important;
+background-color: #8b8b00 !important;
+}
+.comment .sign a[href*="/people/9"]:before{
+color: #ededed !important;
+background-color: #ededed !important;
+}
+}

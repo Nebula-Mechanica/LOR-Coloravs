@@ -1,4 +1,0 @@
-.comment .sign a[href*="/people/z"]:before{
-color: #e0ffff !important;
-background-color: #e0ffff !important;
-}

@@ -1,0 +1,26 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("www.linux.org.ru") {
+.msg .userpic .photo {
+display: none !important;
+}
+.message-w-userpic {
+padding-left: 0px !important;
+}
+.msg footer .sign {
+margin-left: 0px !important;
+}
+.comment .sign a:before {
+display: block !important;
+position: relative !important;
+
+content: " ";
+
+margin-top: -40px !important;
+width: 40px !Important;
+height: 40px !important;
+left: -85px !Important;
+bottom: -33px !Important;
+
+border-radius: 55px !important;
+}

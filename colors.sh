@@ -1,5 +1,6 @@
 #!/bin/bash
-for i in {2..62};do cp col1 col$i;done
+mkdir work
+for i in {1..62};do cp pattern work/col$i;done
 color () {
 sed -n "${1}p" < colors;
 }
@@ -12,8 +13,10 @@ do
 var=$(color "$i");
 varc=$(symbol "$i");
 #echo $var;
-sed s/green/$var/ -i col$i;
-sed s/\\/people\\/a/\\/people\\/$varc/ -i col$i;done
-#cat col0 > fullcol
-cat col{0..63} > fullcol
-#cat col64 > fullcol
+sed s/green/$var/ -i work/col$i;
+sed s/\\/people\\/a/\\/people\\/$varc/ -i work/col$i;done
+cat common > fullcol
+cat work/col{1..62} >> fullcol
+cat end >> fullcol
+rm work/*
+rmdir work

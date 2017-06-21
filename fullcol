@@ -25,8 +25,8 @@ bottom: -33px !Important;
 border-radius: 55px !important;
 }
 .comment .sign a[href*="/people/a"]:before{
-color: green !important;
-background-color: green !important;
+color: #008000 !important;
+background-color: #008000 !important;
 }
 .comment .sign a[href*="/people/b"]:before{
 color: #eea9b8 !important;

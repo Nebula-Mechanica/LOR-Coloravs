@@ -22,7 +22,11 @@ height: 40px !important;
 left: -85px !Important;
 bottom: -33px !Important;
 
-border-radius: 55px !important;
+border-radius: 50px !important;
+}
+
+#comments .msg-container {
+padding-left: 105px !important;
 }
 .comment .sign a[href*="/people/a"]:before{
 color: #008000 !important;

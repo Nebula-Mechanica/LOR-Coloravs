@@ -4,5 +4,5 @@ color: _COLOR_ !important;
 background-color: _COLOR_ !important;
 }
 .comment .sign a[href*="a/profile"]:before{
-filter: saturate(_ROTATE_%);
+filter: saturate(_SATURATE_%) hue-rotate(_ROTATE_deg);
 }

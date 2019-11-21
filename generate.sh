@@ -30,9 +30,15 @@ do
 	#echo $i
 	current_color=$(color "$i")
 	current_symbol=$(symbol "$i")
-	current_rotation=$(calculate "$current_color")
+	current_saturate=$(calculate "$current_color")
+	current_sign=$(echo "$current_saturate%2"|bc)
+	if [ $current_sign -eq 0 ];then
+		current_sign=-1
+	fi
+	current_rotate=$(echo "$current_saturate/3*$current_sign"|bc)
 	sed s/_COLOR_/$current_color/ -i $WORKDIR/col$i
-	sed s/_ROTATE_/$current_rotation/ -i $WORKDIR/col$i
+	sed s/_SATURATE_/$current_saturate/ -i $WORKDIR/col$i
+	sed s/_ROTATE_/$current_rotate/ -i $WORKDIR/col$i
 	sed s/\\/people\\/a/\\/people\\/$current_symbol/ -i $WORKDIR/col$i
 	sed s/a\\/profile/$current_symbol\\/profile/ -i $WORKDIR/col$i
 done

@@ -28,252 +28,500 @@ border-radius: 50px !important;
 #comments .msg-container {
 padding-left: 105px !important;
 }
+
 .comment .sign a[href*="/people/a"]:before{
 color: #008000 !important;
 background-color: #008000 !important;
 }
+.comment .sign a[href*="a/profile"]:before{
+filter: saturate(62%);
+}
+
 .comment .sign a[href*="/people/b"]:before{
 color: #eea9b8 !important;
 background-color: #eea9b8 !important;
 }
+.comment .sign a[href*="b/profile"]:before{
+filter: saturate(176%);
+}
+
 .comment .sign a[href*="/people/c"]:before{
 color: #27408b !important;
 background-color: #27408b !important;
 }
+.comment .sign a[href*="c/profile"]:before{
+filter: saturate(152%);
+}
+
 .comment .sign a[href*="/people/d"]:before{
 color: #7ac5cd !important;
 background-color: #7ac5cd !important;
 }
+.comment .sign a[href*="d/profile"]:before{
+filter: saturate(133%);
+}
+
 .comment .sign a[href*="/people/e"]:before{
 color: #698b22 !important;
 background-color: #698b22 !important;
 }
+.comment .sign a[href*="e/profile"]:before{
+filter: saturate(187%);
+}
+
 .comment .sign a[href*="/people/f"]:before{
 color: #6ca6cd !important;
 background-color: #6ca6cd !important;
 }
+.comment .sign a[href*="f/profile"]:before{
+filter: saturate(62%);
+}
+
 .comment .sign a[href*="/people/g"]:before{
 color: #778899 !important;
 background-color: #778899 !important;
 }
+.comment .sign a[href*="g/profile"]:before{
+filter: saturate(109%);
+}
+
 .comment .sign a[href*="/people/h"]:before{
 color: #7b68ee !important;
 background-color: #7b68ee !important;
 }
+.comment .sign a[href*="h/profile"]:before{
+filter: saturate(70%);
+}
+
 .comment .sign a[href*="/people/i"]:before{
 color: #8b2252 !important;
 background-color: #8b2252 !important;
 }
+.comment .sign a[href*="i/profile"]:before{
+filter: saturate(115%);
+}
+
 .comment .sign a[href*="/people/j"]:before{
 color: #faebd7 !important;
 background-color: #faebd7 !important;
 }
+.comment .sign a[href*="j/profile"]:before{
+filter: saturate(125%);
+}
+
 .comment .sign a[href*="/people/k"]:before{
 color: #ff0000 !important;
 background-color: #ff0000 !important;
 }
+.comment .sign a[href*="k/profile"]:before{
+filter: saturate(178%);
+}
+
 .comment .sign a[href*="/people/l"]:before{
 color: #eec900 !important;
 background-color: #eec900 !important;
 }
+.comment .sign a[href*="l/profile"]:before{
+filter: saturate(142%);
+}
+
 .comment .sign a[href*="/people/m"]:before{
 color: #8b8682 !important;
 background-color: #8b8682 !important;
 }
+.comment .sign a[href*="m/profile"]:before{
+filter: saturate(149%);
+}
+
 .comment .sign a[href*="/people/n"]:before{
 color: #00005b !important;
 background-color: #00005b !important;
 }
+.comment .sign a[href*="n/profile"]:before{
+filter: saturate(77%);
+}
+
 .comment .sign a[href*="/people/o"]:before{
 color: #008b00 !important;
 background-color: #008b00 !important;
 }
+.comment .sign a[href*="o/profile"]:before{
+filter: saturate(176%);
+}
+
 .comment .sign a[href*="/people/p"]:before{
 color: #ba55d3 !important;
 background-color: #ba55d3 !important;
 }
+.comment .sign a[href*="p/profile"]:before{
+filter: saturate(130%);
+}
+
 .comment .sign a[href*="/people/q"]:before{
 color: #d02090 !important;
 background-color: #d02090 !important;
 }
+.comment .sign a[href*="q/profile"]:before{
+filter: saturate(133%);
+}
+
 .comment .sign a[href*="/people/r"]:before{
 color: #8b795e !important;
 background-color: #8b795e !important;
 }
+.comment .sign a[href*="r/profile"]:before{
+filter: saturate(140%);
+}
+
 .comment .sign a[href*="/people/s"]:before{
 color: #96cdcd !important;
 background-color: #96cdcd !important;
 }
+.comment .sign a[href*="s/profile"]:before{
+filter: saturate(199%);
+}
+
 .comment .sign a[href*="/people/t"]:before{
 color: #4a708b !important;
 background-color: #4a708b !important;
 }
+.comment .sign a[href*="t/profile"]:before{
+filter: saturate(178%);
+}
+
 .comment .sign a[href*="/people/u"]:before{
 color: #68228b !important;
 background-color: #68228b !important;
 }
+.comment .sign a[href*="u/profile"]:before{
+filter: saturate(127%);
+}
+
 .comment .sign a[href*="/people/v"]:before{
 color: #8b4500 !important;
 background-color: #8b4500 !important;
 }
+.comment .sign a[href*="v/profile"]:before{
+filter: saturate(137%);
+}
+
 .comment .sign a[href*="/people/w"]:before{
 color: #3d3d3d !important;
 background-color: #3d3d3d !important;
 }
+.comment .sign a[href*="w/profile"]:before{
+filter: saturate(80%);
+}
+
 .comment .sign a[href*="/people/x"]:before{
 color: #cd0000 !important;
 background-color: #cd0000 !important;
 }
+.comment .sign a[href*="x/profile"]:before{
+filter: saturate(197%);
+}
+
 .comment .sign a[href*="/people/y"]:before{
 color: #080808 !important;
 background-color: #080808 !important;
 }
+.comment .sign a[href*="y/profile"]:before{
+filter: saturate(136%);
+}
+
 .comment .sign a[href*="/people/z"]:before{
 color: #e0ffff !important;
 background-color: #e0ffff !important;
 }
+.comment .sign a[href*="z/profile"]:before{
+filter: saturate(91%);
+}
+
 .comment .sign a[href*="/people/A"]:before{
 color: #ffffff !important;
 background-color: #ffffff !important;
 }
+.comment .sign a[href*="A/profile"]:before{
+filter: saturate(190%);
+}
+
 .comment .sign a[href*="/people/B"]:before{
 color: #b5b5b5 !important;
 background-color: #b5b5b5 !important;
 }
+.comment .sign a[href*="B/profile"]:before{
+filter: saturate(107%);
+}
+
 .comment .sign a[href*="/people/C"]:before{
 color: #636363 !important;
 background-color: #636363 !important;
 }
+.comment .sign a[href*="C/profile"]:before{
+filter: saturate(140%);
+}
+
 .comment .sign a[href*="/people/D"]:before{
 color: #838b83 !important;
 background-color: #838b83 !important;
 }
+.comment .sign a[href*="D/profile"]:before{
+filter: saturate(148%);
+}
+
 .comment .sign a[href*="/people/E"]:before{
 color: #00688b !important;
 background-color: #00688b !important;
 }
+.comment .sign a[href*="E/profile"]:before{
+filter: saturate(61%);
+}
+
 .comment .sign a[href*="/people/F"]:before{
 color: #43cd80 !important;
 background-color: #43cd80 !important;
 }
+.comment .sign a[href*="F/profile"]:before{
+filter: saturate(124%);
+}
+
 .comment .sign a[href*="/people/G"]:before{
 color: #00868b !important;
 background-color: #00868b !important;
 }
+.comment .sign a[href*="G/profile"]:before{
+filter: saturate(142%);
+}
+
 .comment .sign a[href*="/people/H"]:before{
 color: #ee82ee !important;
 background-color: #ee82ee !important;
 }
+.comment .sign a[href*="H/profile"]:before{
+filter: saturate(62%);
+}
+
 .comment .sign a[href*="/people/I"]:before{
 color: #eeeed1 !important;
 background-color: #eeeed1 !important;
 }
+.comment .sign a[href*="I/profile"]:before{
+filter: saturate(146%);
+}
+
 .comment .sign a[href*="/people/J"]:before{
 color: #8470ff !important;
 background-color: #8470ff !important;
 }
+.comment .sign a[href*="J/profile"]:before{
+filter: saturate(101%);
+}
+
 .comment .sign a[href*="/people/K"]:before{
 color: #8b475d !important;
 background-color: #8b475d !important;
 }
+.comment .sign a[href*="K/profile"]:before{
+filter: saturate(88%);
+}
+
 .comment .sign a[href*="/people/L"]:before{
 color: #0d0d0d !important;
 background-color: #0d0d0d !important;
 }
+.comment .sign a[href*="L/profile"]:before{
+filter: saturate(172%);
+}
+
 .comment .sign a[href*="/people/M"]:before{
 color: #eed5d2 !important;
 background-color: #eed5d2 !important;
 }
+.comment .sign a[href*="M/profile"]:before{
+filter: saturate(173%);
+}
+
 .comment .sign a[href*="/people/N"]:before{
 color: #ff8247 !important;
 background-color: #ff8247 !important;
 }
+.comment .sign a[href*="N/profile"]:before{
+filter: saturate(137%);
+}
+
 .comment .sign a[href*="/people/O"]:before{
 color: #90ee90 !important;
 background-color: #90ee90 !important;
 }
+.comment .sign a[href*="O/profile"]:before{
+filter: saturate(169%);
+}
+
 .comment .sign a[href*="/people/P"]:before{
 color: #5e5e5e !important;
 background-color: #5e5e5e !important;
 }
+.comment .sign a[href*="P/profile"]:before{
+filter: saturate(71%);
+}
+
 .comment .sign a[href*="/people/Q"]:before{
 color: #ee0000 !important;
 background-color: #ee0000 !important;
 }
+.comment .sign a[href*="Q/profile"]:before{
+filter: saturate(128%);
+}
+
 .comment .sign a[href*="/people/R"]:before{
 color: #ffefd5 !important;
 background-color: #ffefd5 !important;
 }
+.comment .sign a[href*="R/profile"]:before{
+filter: saturate(170%);
+}
+
 .comment .sign a[href*="/people/S"]:before{
 color: #fffff0 !important;
 background-color: #fffff0 !important;
 }
+.comment .sign a[href*="S/profile"]:before{
+filter: saturate(101%);
+}
+
 .comment .sign a[href*="/people/T"]:before{
 color: #ee9a00 !important;
 background-color: #ee9a00 !important;
 }
+.comment .sign a[href*="T/profile"]:before{
+filter: saturate(184%);
+}
+
 .comment .sign a[href*="/people/U"]:before{
 color: #6b8e23 !important;
 background-color: #6b8e23 !important;
 }
+.comment .sign a[href*="U/profile"]:before{
+filter: saturate(115%);
+}
+
 .comment .sign a[href*="/people/V"]:before{
 color: #828282 !important;
 background-color: #828282 !important;
 }
+.comment .sign a[href*="V/profile"]:before{
+filter: saturate(134%);
+}
+
 .comment .sign a[href*="/people/W"]:before{
 color: #eee9e9 !important;
 background-color: #eee9e9 !important;
 }
+.comment .sign a[href*="W/profile"]:before{
+filter: saturate(64%);
+}
+
 .comment .sign a[href*="/people/X"]:before{
 color: #eeaeee !important;
 background-color: #eeaeee !important;
 }
+.comment .sign a[href*="X/profile"]:before{
+filter: saturate(127%);
+}
+
 .comment .sign a[href*="/people/Y"]:before{
 color: #9b30ff !important;
 background-color: #9b30ff !important;
 }
+.comment .sign a[href*="Y/profile"]:before{
+filter: saturate(202%);
+}
+
 .comment .sign a[href*="/people/Z"]:before{
 color: #66cd00 !important;
 background-color: #66cd00 !important;
 }
+.comment .sign a[href*="Z/profile"]:before{
+filter: saturate(166%);
+}
+
 .comment .sign a[href*="/people/0"]:before{
 color: #fafad2 !important;
 background-color: #fafad2 !important;
 }
+.comment .sign a[href*="0/profile"]:before{
+filter: saturate(104%);
+}
+
 .comment .sign a[href*="/people/1"]:before{
 color: #daa520 !important;
 background-color: #daa520 !important;
 }
+.comment .sign a[href*="1/profile"]:before{
+filter: saturate(83%);
+}
+
 .comment .sign a[href*="/people/2"]:before{
 color: #ffe4e1 !important;
 background-color: #ffe4e1 !important;
 }
+.comment .sign a[href*="2/profile"]:before{
+filter: saturate(191%);
+}
+
 .comment .sign a[href*="/people/3"]:before{
 color: #cd2990 !important;
 background-color: #cd2990 !important;
 }
+.comment .sign a[href*="3/profile"]:before{
+filter: saturate(95%);
+}
+
 .comment .sign a[href*="/people/4"]:before{
 color: #707070 !important;
 background-color: #707070 !important;
 }
+.comment .sign a[href*="4/profile"]:before{
+filter: saturate(76%);
+}
+
 .comment .sign a[href*="/people/5"]:before{
 color: #6e6e6e !important;
 background-color: #6e6e6e !important;
 }
+.comment .sign a[href*="5/profile"]:before{
+filter: saturate(188%);
+}
+
 .comment .sign a[href*="/people/6"]:before{
 color: #db7093 !important;
 background-color: #db7093 !important;
 }
+.comment .sign a[href*="6/profile"]:before{
+filter: saturate(181%);
+}
+
 .comment .sign a[href*="/people/7"]:before{
 color: #b4eeb4 !important;
 background-color: #b4eeb4 !important;
 }
+.comment .sign a[href*="7/profile"]:before{
+filter: saturate(175%);
+}
+
 .comment .sign a[href*="/people/8"]:before{
 color: #8b8b00 !important;
 background-color: #8b8b00 !important;
 }
+.comment .sign a[href*="8/profile"]:before{
+filter: saturate(73%);
+}
+
 .comment .sign a[href*="/people/9"]:before{
 color: #ededed !important;
 background-color: #ededed !important;
+}
+.comment .sign a[href*="9/profile"]:before{
+filter: saturate(161%);
 }
 }

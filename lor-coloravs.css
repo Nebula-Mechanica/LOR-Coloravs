@@ -238,11 +238,11 @@ filter: saturate(91%) hue-rotate(30deg);
 }
 
 .comment .sign a[href*="/people/A"]:before{
-color: #ffffff !important;
-background-color: #ffffff !important;
+color: #6b8a6c !important;
+background-color: #6b8a6c !important;
 }
 .comment .sign a[href*="A/profile"]:before{
-filter: saturate(190%) hue-rotate(-63deg);
+filter: saturate(82%) hue-rotate(-27deg);
 }
 
 .comment .sign a[href*="/people/B"]:before{
@@ -382,11 +382,11 @@ filter: saturate(170%) hue-rotate(-56deg);
 }
 
 .comment .sign a[href*="/people/S"]:before{
-color: #fffff0 !important;
-background-color: #fffff0 !important;
+color: #fffc66 !important;
+background-color: #fffc66 !important;
 }
 .comment .sign a[href*="S/profile"]:before{
-filter: saturate(101%) hue-rotate(33deg);
+filter: saturate(176%) hue-rotate(-58deg);
 }
 
 .comment .sign a[href*="/people/T"]:before{

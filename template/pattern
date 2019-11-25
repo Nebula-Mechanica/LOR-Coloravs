@@ -1,8 +1,8 @@
 
-.comment .sign a[href*="/people/a"]:before{
+.msg .sign a[href*="/people/a"]:before{
 color: _COLOR_ !important;
 background-color: _COLOR_ !important;
 }
-.comment .sign a[href*="a/profile"]:before{
+.msg .sign a[href*="a/profile"]:before{
 filter: saturate(_SATURATE_%) hue-rotate(_ROTATE_deg);
 }

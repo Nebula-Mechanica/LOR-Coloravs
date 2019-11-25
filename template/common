@@ -10,7 +10,7 @@ padding-left: 0px !important;
 .msg footer .sign {
 margin-left: 0px !important;
 }
-.comment .sign a:before {
+.comment .sign a:before, .messages article[id*="topic"] .sign a[rel="author"]:before {
 display: block !important;
 position: relative !important;
 
@@ -25,6 +25,10 @@ bottom: -33px !Important;
 border-radius: 50px !important;
 }
 
-#comments .msg-container {
+#comments .msg-container, .messages article[id*="topic"] .sign {
 padding-left: 105px !important;
+}
+
+.messages article[id*="topic"] .sign {
+padding-top: 20px !important;
 }

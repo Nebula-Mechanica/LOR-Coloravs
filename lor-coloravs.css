@@ -226,11 +226,11 @@ filter: saturate(197%) hue-rotate(65deg);
 }
 
 .msg .sign a[href*="/people/y"]:before{
-color: #080808 !important;
-background-color: #080808 !important;
+color: #8bd000 !important;
+background-color: #8bd000 !important;
 }
 .msg .sign a[href*="y/profile"]:before{
-filter: saturate(136%) hue-rotate(-45deg);
+filter: saturate(61%) hue-rotate(20deg);
 }
 
 .msg .sign a[href*="/people/z"]:before{
@@ -330,11 +330,11 @@ filter: saturate(88%) hue-rotate(-29deg);
 }
 
 .msg .sign a[href*="/people/L"]:before{
-color: #0d0d0d !important;
-background-color: #0d0d0d !important;
+color: #f3bcfd !important;
+background-color: #f3bcfd !important;
 }
 .msg .sign a[href*="L/profile"]:before{
-filter: saturate(172%) hue-rotate(-57deg);
+filter: saturate(196%) hue-rotate(-65deg);
 }
 
 .msg .sign a[href*="/people/M"]:before{
